@@ -19,7 +19,7 @@ create table job_history(Employee_ID Number(3), Start_Date date, End_Date date, 
 
 Output
 
-![alt text](image-2.png)
+![alt text](Table_created.png)
 
 - Insert query
 ```sql
